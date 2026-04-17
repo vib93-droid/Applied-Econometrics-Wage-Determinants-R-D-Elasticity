@@ -46,12 +46,8 @@ Run .do files in order (assignment_1.do → assignment_3.do → assignment_5.do)
 File Structure
 applied-econometrics/
 │
-├── do-files/
-│   ├── assignment_1.do       # OLS basics, participation rate, CEO tenure
-│   ├── assignment_3.do       # Wage regression, quadratic experience, log-log
-│   └── assignment_5.do       # Ceteris paribus, elasticity interpretation
-│
-├── outputs/
-│   └── regression_outputs.txt  # Key results
+├── Assignment 1.do    # OLS basics, participation rate, CEO tenure, IQ-wage, R&D
+├── Assignment 2.do    # Wage regression, quadratic experience, log-log elasticity
+├── Assignment 3.do    # Multivariate wage model, significance testing
 │
 └── README.md
